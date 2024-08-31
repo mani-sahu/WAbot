@@ -58,6 +58,23 @@ Manage and track aura points for members with the following commands:
   - **Command**: `!aura help`
   - **Description**: Lists out all the functions with their command for the Aura Points Management.
 
+## 🚀 How to Run the Bot
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/mani-sahu/WAbot.git
+   ```
+2. **Install the requirements:**:
+   ```bash
+   npm i
+   ```
+3. **Run the bot in cmd:**:
+   ```bash
+   node index.js
+   ```
+- After running the command, scan the QR code from WhatsApp to authenticate.
+4.  **Voila! Your bot is working!**
+  
 ## 📌 Notes
 - All commands should be used in the correct format for them to work.
 - The bot automatically handles group member tagging and mentions where needed.
