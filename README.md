@@ -35,6 +35,10 @@ Manage roles within the group with the following commands:
   - **Command**: `!role <role> remove <tag member 1> <tag member 2>`
   - **Description**: Removes specified members from a role.
 
+- **Getting all functions**
+  - **Command**: `!role help`
+  - **Description**: Lists out all the functions with their command for the Role Management.
+
 ### 4. **Aura Points Management**
 Manage and track aura points for members with the following commands:
 
@@ -49,6 +53,10 @@ Manage and track aura points for members with the following commands:
 - **Subtract Aura Points**
   - **Command**: `!aura minus <tag member> <points>`
   - **Description**: Subtracts specified points from a member's aura points. Points must be between 0 and 10000.
+
+- **Getting all functions**
+  - **Command**: `!aura help`
+  - **Description**: Lists out all the functions with their command for the Aura Points Management.
 
 ## 📌 Notes
 - All commands should be used in the correct format for them to work.
