@@ -1,0 +1,10 @@
+# Contains your WhatsApp credentials.
+auth/
+
+# Data file for roles.
+roles.json
+
+# Data file for aura points.
+aura_points.json
+
+node_modules/
